@@ -4,7 +4,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 POSTGRES = {
     'user': 'matt',
     'pw': 'matt',
-    'db': 'livboulder',
+    'db': 'sendIt',
     'host': 'localhost',
     'port': '5432',
 }
